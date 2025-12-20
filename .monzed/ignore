@@ -1,2 +1,9 @@
 src/components/ui/*
-hooks/use-toast.ts
+src/hooks/use-toast.ts
+src/lib/utils.ts
+src/index.css
+src/App.css
+tailwind.config.js
+postcss.config.js
+components.json
+vite.config.ts
